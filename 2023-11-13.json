@@ -1,0 +1,26 @@
+{
+  "name": "Sara Brock",
+  "age": 37,
+  "address": {
+    "street": "Mesis Point",
+    "city": "Nefvakib",
+    "state": "HI",
+    "zip": "79399"
+  },
+  "contact": {
+    "phone": "(883) 476-9747",
+    "servicePhone": "800578455"
+  },
+  "birthday": "1960-04-01T07:48:47.295Z",
+  "ip": "32.127.230.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Ganudupe huge on mumrahlel sachujib kiop tiidiru zacimetum vi ukukarkim mu wirit. Fiuk guit ujtid lobuknal ruh olepiut ehufirej pob toheku me fuk ujzeg gu vujkoro zanza. Owaowoul dubaiv bakop bav vephatat ja oftocziz fo tod nejoco zev kijsunid orhiom upofek zagji cihmol tij.",
+    "bio": "Fa garazzu zip gulahobit wo donfas vor ku ni rawano ludhul beef af apiaci. Kemecufu moscufoj zijuje hokmu bafkan ho covupuw piz buwbes habufiab is fo luloro cosor ne sicek hu ut. Cir afi puv apuezesah onu asjohu zucba irogapic jic ji gatab latocub haz owaitci gab ub."
+  },
+  "apiKey": "b620c29001a005722cd4c385dce07dbdfb81161a5dee4261269c76f0417d5c7f",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
