@@ -1,0 +1,26 @@
+{
+  "name": "Lelia Hart",
+  "age": 43,
+  "address": {
+    "street": "Cukve View",
+    "city": "Gidadal",
+    "state": "WI",
+    "zip": "73216"
+  },
+  "contact": {
+    "phone": "(811) 537-3252",
+    "servicePhone": "800425765"
+  },
+  "birthday": "1977-12-10T15:44:49.910Z",
+  "ip": "19.192.13.52",
+  "foo": "bar",
+  "profile": {
+    "about": "Kevte diwweune esu henme utotuedo dev aririk zodoweow ari dezzuisa fa wafuzub nupaji. Tihacuvut hopudaeha vifwam kuvo berewijoj zuc navipaz tusekowe fu cozolnep pomdad tulalcuh miw ejof uk dajaovi bidi. Lanke nunedfad la cujsafa co jor wa ni et ope vokuir ejdi.",
+    "bio": "Epcim nuslub tadaceegu carapuda tulsudri fibtactit bohnu vingeanu luer cofat sav zo vewicefa vadbar tanipova ude. Dium papgukip enebabvez cefih do zuceet doz tojbilga nuzewuc taijzo davac rikvog wattem vo wo pu uw vud. Fe argobeb tucufi dal seeno jilagfah itfekig rehotov kihkagtil meztaeso ge viegis geta riwu wu."
+  },
+  "apiKey": "58ef1494e4f9cf7bf80818a7102239f6ee032540427ab78b5e096589b55a3e46",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
