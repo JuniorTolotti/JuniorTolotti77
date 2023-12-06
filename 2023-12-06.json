@@ -1,0 +1,26 @@
+{
+  "name": "Johnny Jennings",
+  "age": 49,
+  "address": {
+    "street": "Vermu Drive",
+    "city": "Oduwumha",
+    "state": "NM",
+    "zip": "33043"
+  },
+  "contact": {
+    "phone": "(538) 228-8963",
+    "servicePhone": "800562538"
+  },
+  "birthday": "1981-01-24T02:45:14.567Z",
+  "ip": "246.131.46.200",
+  "foo": "bar",
+  "profile": {
+    "about": "Jatiho elfocu rejihi vivap vurkaz useno cafduru ekono feac dol fe vazi itceibe asi. Igidi of cov uja ononih so vi akwat wuc wi julu tel barfaw lu ra oko. Nezzaj ejgiti da wenempid feawwe zoppemre ohbawa awiedeed sinaj vuc ibocapza okzeb nuw ahuzaak vig kam boutpis. Zam hi hoesdin dukotwo nedraal ma dan zak ni tuegci purrohre vuci wo. Bag kizir dadolefu dubagop ukuwoz ibi be damapjod ebewafdas rilijsob fil zuri.",
+    "bio": "Nes mutte pejeneb iha numjire sadji he oc de heze le beafuko inu zi owaiktip erpa sevmelnar modam. Miac jepev da tuice kaufazi teude bin afosa vedahfof tiervi kupuvan tirta. Irijentus lul kakifa wa kalrifefe omkaj po za gunbos nin vetulna udaagko kiulafut luc."
+  },
+  "apiKey": "571a64a528cf56cdb07b8e3d28016d6c9bd38fbab4a1b6768a5af3e423755d6d",
+  "currency": {
+    "code": "PGK",
+    "name": "Papua New Guinea Kina"
+  }
+}
