@@ -1,0 +1,26 @@
+{
+  "name": "Aaron Turner",
+  "age": 36,
+  "address": {
+    "street": "Falu View",
+    "city": "Jovosed",
+    "state": "PA",
+    "zip": "17114"
+  },
+  "contact": {
+    "phone": "(533) 215-5215",
+    "servicePhone": "800973476"
+  },
+  "birthday": "1991-09-04T23:35:22.153Z",
+  "ip": "144.166.250.228",
+  "foo": "bar",
+  "profile": {
+    "about": "Ab fej doz zus gafef wefpum uhu hudhanuc cec cedci gado mavmu vezarova me vonbe fos bug je. Jeg bo latu pahsaz mag camvi zepzuaho penav pefnu hareh mihigase ejzuj seosena. Ra keroh er pojun sop tinfekose no has ba tipe sawe bep se nenriwra ka gi ucra. Tujwi lakir pubno etduwi jogjesfow wo kom so dulpujas tevedev socserhe ubretoco zauf monak vun. Jimafir kagvehis jerja maomo lispov ozcizmih sewbikuda mihi ter jajcin sof utli rewkubud niivjok tulkiz ewu. Hip efezawaw ep uplocpoj te hak ufpeku foogiko hegeb jahuru ne erkepwu jokku kivutpom. Zol bir rekhukaf giwcaus ta ihi becwijhat fizeawu vu jobko bogifev mom nenol.",
+    "bio": "Si apebzo sos bu pi pow nuzo owu vo hekpij ehiwopo ufoonuho fe. Wot em oj do tafhe so cumihal ri lek cas pu ze iva ozoka. Pu wiefahac gijabwol gubamam pup boc mojuw oruaz dobnotri ok obo ro sus. De ukuwu iko nimop pic faciswe avawuf gur fucbizdam cusud an zac hejvare."
+  },
+  "apiKey": "128e00aaabcd5f8048fa329e4897f755ed83378637eafb290d5a2c5fbb146440",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
