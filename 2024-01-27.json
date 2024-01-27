@@ -1,0 +1,26 @@
+{
+  "name": "Lucy Hopkins",
+  "age": 60,
+  "address": {
+    "street": "Puho Terrace",
+    "city": "Wuwepko",
+    "state": "WY",
+    "zip": "72011"
+  },
+  "contact": {
+    "phone": "(355) 687-1310",
+    "servicePhone": "800628885"
+  },
+  "birthday": "1976-07-03T06:55:44.005Z",
+  "ip": "209.242.107.175",
+  "foo": "bar",
+  "profile": {
+    "about": "Aliga zuburida omoibe wuzvi mo kate ujuimred bi vo fe siwusji loca wigkudet. Luab ajukop lekarnog gojtiv mig mit nejrok ke ukahate orupebja fe dogwagepi zepuduha dom fukebi zuke. Si zuffi kelabfoc bobkarcab de nihictid fuz hepisu gaw baciwok nec mim mata junuho kera vi ofzodgu. Tomenva osgewer pascu botziugu fuw wisejfis cozeh liknijda passi edva uhoti wovbufluc ad. Finow tomzineka amgabjef va cina kuh mas suavejin zoojomu movoce cuk jegekil ec eguraopo efe aj wewarep lohozuk.",
+    "bio": "Cus gon wegilji cik ju bowrin vohikte neg zotut sifato nem joptup vugwi zaat cepnozi zaijmow jijirbab. Tizoho refiv fu ulconevi elaru uhuawco copimu leh kose holeko owi sap hi. Upfa ahi ebilohun bisduffi kosev huema re ilkup bo az hi gow tuzo."
+  },
+  "apiKey": "2818d5956e90aa236be1bce0ef72aa2ec92b5dcc953f20f9dbfd74722d4d33d5",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
