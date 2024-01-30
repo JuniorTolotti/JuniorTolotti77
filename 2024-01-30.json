@@ -1,0 +1,26 @@
+{
+  "name": "Cody Powell",
+  "age": 43,
+  "address": {
+    "street": "Mecve View",
+    "city": "Juuzutog",
+    "state": "HI",
+    "zip": "65317"
+  },
+  "contact": {
+    "phone": "(406) 332-8462",
+    "servicePhone": "800794759"
+  },
+  "birthday": "1998-03-31T04:05:34.970Z",
+  "ip": "188.50.119.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Kevab boz vebewi ehon colo ha go ujawol ci suatare ipuuwaboc tar zeme zeeb jub. Ja eghiare dorzokek dueniwe sacok kij sanok venuju loj jecegpas be se damgepcaz orjo. Um vuf geclu iwcem hotwilvil keefot rurhes losuddo havis buusriz bokokevav si vet. Jawu esaew fomwom disbufham ciwuf li bohuop te un sougwok osho ejfib da vegitu.",
+    "bio": "Zofezoere jaelefa ki udu cohzizi pihfosmaz vizbi nessovi vos muz zu bu vimoz zo fusdo felataha lelapkud nun. Pajnivwa ne rebuz vopof wucine ojtok una jod vanmus giiwnol wudop gu hacuk wuov hoj. Voocepo efufe me be cohgutimu nucbo anika onamne kakokbim balto gakure du vejola wowebcu."
+  },
+  "apiKey": "4ea85da2aec4495945f4f1cff8859f7b17a7748104169f470f57e70016a3105c",
+  "currency": {
+    "code": "SDG",
+    "name": "Sudan Pound"
+  }
+}
