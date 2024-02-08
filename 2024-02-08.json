@@ -1,0 +1,26 @@
+{
+  "name": "Mark Simon",
+  "age": 29,
+  "address": {
+    "street": "Redo Park",
+    "city": "Wojana",
+    "state": "VT",
+    "zip": "26901"
+  },
+  "contact": {
+    "phone": "(551) 338-6997",
+    "servicePhone": "800647972"
+  },
+  "birthday": "1962-03-16T19:36:58.601Z",
+  "ip": "121.238.31.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Fe gaz kowucfuz ofilo leal wo jamhus hiac fivsopo etkutesu se lepemi ujfaz. Deaho buv apigi suk sab rachic ucigumud nebertu ne esa otouc ewpo ep nacari. Emihuploh kav bemave poise itdobef ata em tilabo zujob uzca wibi fi wu jifraz. Ce jaefcu jijvekat rotu fimuvuc soawojo alawuc hus heta ribo pohala mi jepemoni acezih romoma fiwus pa giezro. Mirbeupi enuwizi fofobha pacpin ninlinroc fot ucosa eweciop ute fuegzi no ohti se zegamfa fu wis.",
+    "bio": "Umutazdaz bamsedoz tucwap welcomiz utator iwa oksioku kokewzal lam mitda hi pacon. Resmacro nademgi hupnoro ephoeli zotop ucaratuf gab ez lo wawvewa ipiscur oc. Dis menfo pe sijika inugidi ujazezu mibsoj ewuhead ruvoaje jog eba gerulrir tewefe gi wu pekikuwe ir vebsibkek."
+  },
+  "apiKey": "da90869412653a74cf7e8ab1630d6bd8fddd58341f875d9c30e8634518bc85ea",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
