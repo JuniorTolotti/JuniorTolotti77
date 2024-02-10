@@ -1,0 +1,26 @@
+{
+  "name": "Alta Douglas",
+  "age": 24,
+  "address": {
+    "street": "Adini Drive",
+    "city": "Kuzibgo",
+    "state": "NJ",
+    "zip": "39010"
+  },
+  "contact": {
+    "phone": "(316) 967-1565",
+    "servicePhone": "800229731"
+  },
+  "birthday": "1959-05-24T07:22:30.386Z",
+  "ip": "181.120.46.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Jenodu mulkoeko pobibna pukorgi du cakwojpaz gogtif nacger tot nodcidbul necvonpo dac lergis vot amiwel ziehu odba luw. Kannavocu jigo puwisjik lelkomgat pul ir ur vipbaj pugwa puruz jufso telohne nejikow. Lauwfa zikeju kudvabje gud guc an za pim camjobiw fagu kafe gu hugsiwuv viod dew reki vefezowo zurra. Lot medluv jepo re itucu fozpiv ji co up kufa co olha wamod kacmocdok wucoli elha muho utmar.",
+    "bio": "Egcolu liz ac hubmi ku ejbi bu di hi rerrec luesirec welavi. Bevcun nas pagifvi cesvevete wa modeot fatak makhedow tostavhef sak veudocig soksab no tese iro venakef. Fudoam tila eginaku umopilimi re ganonaso nitolo daavuwa rombeje vium riwincof hekcokfi suovi."
+  },
+  "apiKey": "7ae6bbea7375ba128c6f62ef078f5c8acbeb1f10395b0db92c93ebcddceeb9dc",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
