@@ -1,0 +1,26 @@
+{
+  "name": "Jeff Beck",
+  "age": 55,
+  "address": {
+    "street": "Nano Place",
+    "city": "Nilefe",
+    "state": "OK",
+    "zip": "22380"
+  },
+  "contact": {
+    "phone": "(876) 958-4695",
+    "servicePhone": "800971751"
+  },
+  "birthday": "2000-11-04T13:43:25.148Z",
+  "ip": "78.210.21.167",
+  "foo": "bar",
+  "profile": {
+    "about": "Ebefuj zeruvet mutruthos fi nenuc suf rasmihul ul ipuezeci tez ehob toshopwo wefje fiweju nohmukpid zunika pocoan mi. Wuh ko coegriw aco saawa sisi putfuz ic mat sihah bi ruuzavi nurzejos fivole vubmobew. Kiwun kucde va ji dikpiki ne vapsibfo muz adiki fikku raragcib luhma jur ruteic ti ez. Fu tabi ubehozwu bo zaf cuponcir kolebdak ilavlan rowawja keko fuc senup wuca lu ezbesfev ku pentu mohicku.",
+    "bio": "Suncir dokjomop mofon ruufala fovidce zasodpok padzonmuj ji aj radwob letutege ririb heneunu odobuj kimfo forpezva. Gorro ajagoihi roseswew nuzvipev amupumad tumaf vih ivoob zetfo di ukadev vaebu sikaga. Bam jotosum itgufwin fijrim cuhbudepo guk zov be van hibof diutaoci iwo bivopav bosusmov apta bohmoh otvoh. Ihova odu lalek cebe gemlu joabo ru gajpasvej iwsucton jaddisko miuw boz lata."
+  },
+  "apiKey": "22e8929c193e6b030b325e87fd2274e0feae319f078c05081a5e6d307c9edcec",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
