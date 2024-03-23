@@ -1,0 +1,26 @@
+{
+  "name": "Brandon Price",
+  "age": 23,
+  "address": {
+    "street": "Ocpow Lane",
+    "city": "Luhutal",
+    "state": "NV",
+    "zip": "63333"
+  },
+  "contact": {
+    "phone": "(347) 939-9733",
+    "servicePhone": "800581872"
+  },
+  "birthday": "2004-10-08T01:15:37.877Z",
+  "ip": "193.12.190.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuzpi avub codila zusipu ci imevil lu do lib lejjevom for ufiudo wa gumibfa gube lout. Wu cojbon nuzicetov nuluka oz ke cidfub rekcoteto ne mazi polunned zu turijam vuulilu iv tocvauj akagokew. Gaciv zitkan ta jeowi umner to opuereli zizgoziv bufman le maaz luptowlu pi roko ruzek obumip na woteroce.",
+    "bio": "Ahloen bikco ninez zicujba agic adlo zarag rodov hummi wuki fupuc suj zojuslo bi af. Ruduk taplah lil duwgacto aki hofpor dievwo nit retlac ji valuze girulnub ifpic. Loti rehak ujileop el bufgabec cuf uvunok lalela ak pac ejpimgu peumuli."
+  },
+  "apiKey": "8a516dbf0fb40f445cc7340f357faf72f85411c6295f0b7ef871ee235a3969a1",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
