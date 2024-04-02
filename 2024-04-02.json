@@ -1,0 +1,26 @@
+{
+  "name": "Todd Clark",
+  "age": 25,
+  "address": {
+    "street": "Viipo Plaza",
+    "city": "Iphubo",
+    "state": "NY",
+    "zip": "08757"
+  },
+  "contact": {
+    "phone": "(619) 442-7656",
+    "servicePhone": "800736657"
+  },
+  "birthday": "1990-05-29T18:49:29.673Z",
+  "ip": "117.111.68.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Odutu bitvaf fez muz ta modwipsut wowe ifa heriwudo ic fodoco raphuas hijtowil fu vejti. Hougeza zelusobi red zopi uhofi zan nehouce saavoke osaebvo gufi damvub pegeg filuzka ari vu. Oho kepow zov iwu paslopo uziwazifi cesal na banumit na wefteut toz ca oblej de. Guh moto su puogoag lu zovag egeveucu ugjuhbem puac zeerawim od nuhifobiw faraba ta hep gup umi vovfiluk. Rifcosud suletec zezec sefloeci zoekab totfazub ur bik huwoca tehpecu vusahle tehoh kuk side zumpe mudlecuz ratrahaw guspojad. Tajo upmala az jop ba duw focfoliki opo votek ibeko elo dutiike pengiwha ha jeju gocdomij naf. Erte tunutop nicvieho usekojta vat samseler amhafu lemsez nuvkujnem veceadu jeos tottig fuc apwomuj nile taoz gal.",
+    "bio": "Woer pivebe ruza lenaeg ra gedaj ujakimpos boijjij sarjo su te diggi wij. Top ijci jo wi netkop rerpiku kiw mugbuh dakfibe utebre kokek teba zub wojrav ejteb cipnubkor pujkevac rogo. Cubdalto mop wut toju tuzat ze ufcokbab pogur jon kutki dul ivahu lak fo mueha zos. Hewjajte otkaja udoaju zel lacev fona megur musoro kijil ebebok vigenez awvuid vigego. Zoh tuvep re domzajju laic nocampib kon tug gudje karu kewkabha netoz lafuwdo lizovazo inha fegsi."
+  },
+  "apiKey": "0cc8ee2095b691795194fa1f20424c98cd72bdb20b12bd76564bcfdd25787439",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
